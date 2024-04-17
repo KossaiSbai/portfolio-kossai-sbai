@@ -16,7 +16,12 @@ const Edu_Card = ({ data }) => {
                     {data.degree}
                 </div>
                 <div className="text-LightGray text-sm font-normal mt-4 ">
-                    {data.detail}
+                    <ul className={"list-style"}>
+                        {data.detail.split('\n').map((item, index) => (
+                            <li key={index}>{item}</li>
+                        ))}
+                        <br/>
+                    </ul>
                 </div>
             </div>
         </CardLayout>

@@ -1,67 +1,73 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Kossaï Sbaï';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `Full Stack Developer | AI/ML passionate`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+    Residence: 'United Kingdom',
+    City: 'London',
+    Age: '24',
 };
 
 export const SKILLS = [
-  {
-    title: 'MERN Stack Developer',
-    level: '75%',
-  },
-  {
-    title: 'React Developer',
-    level: '91%',
-  },
-  // {
-  //   title: 'Desktop Application Developer',
-  //   level: '75%',
-  // },
-  {
-    title: 'Backend Developer',
-    level: '54%',
-  },
-  {
-    title: 'Technical Blogger',
-    level: '83%',
-  },
+    {
+        title: 'SQL',
+        level: '80%',
+    },
+    {
+        title: 'Python',
+        level: '100%',
+    },
+    {
+        title: 'Kotlin',
+        level: '100%',
+    },
+    {
+        title: 'React',
+        level: '80%',
+    },
+    {
+        title: 'Typescript',
+        level: '80%',
+    },
 ];
 
 export const TECH_STACK = [
-  'ReactJS',
-  'JavaScript',
-  'NextJS',
-  'TypeScript',
-  'NodeJS',
-  'Redux',
-  'Zustand',
-  'CSS',
-  'SCSS',
-  'TailwindCSS',
-  'Ant Design',
-  'Material UI',
-  'Next UI',
-  'REST API',
-  'MongoDB',
-  'MySQL',
-  'Git',
-  'GitHub',
-  'Jira',
-  'Figma',
-  'Adobe XD',
+    'React',
+    'JavaScript',
+    'NextJS',
+    'TypeScript',
+    'NodeJS',
+    'CSS',
+    'SCSS',
+    'TailwindCSS',
+    'Material UI',
+    'REST API',
+    'MongoDB',
+    'MySQL',
+    'Git',
+    'GitHub',
+    'Jira',
+    'Figma',
+    'Flask',
+    'HTMX',
+    'Kotlin',
+    'Java',
+    'Python',
+    'Ruby On Rails',
+    'Vue.js',
+    'Flutter',
+    'D3.js',
+    'Bootstrap',
+    'Langchain',
+    'AWS',
+    'React Native',
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+    EMAIL: 'kossai.sbai@gmail.com',
+    PHONE: '+447432120945',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+    GITHUB: 'https://github.com/KossaiSbai',
+    LINKEDIN: 'https://www.linkedin.com/in/kossai-sbai/',
 };
