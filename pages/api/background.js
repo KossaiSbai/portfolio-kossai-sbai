@@ -9,7 +9,7 @@ const background = [
                 "Modules: Machine Learning, Reinforcement Learning, Distributed Algorithms, NLP, Deep Learning.\n" +
                 "Worked with Elliptic to analyse Ethereum transactions wor my dissertation, uncovering patterns that helped prevent around 37 billion in potential fraud in 2021.\n" +
                 "Second class with 73.78% overall.\n" +
-                "Programming languages taught/used: Elixir, Javascript, Python, Pytorch, Numpy, Scikit-learn",
+                "Programming languages/Frameworks taught/used: Elixir, Javascript, Python, Pytorch, Numpy, Scikit-learn",
                 year: '2020-2021'
             },
             {
