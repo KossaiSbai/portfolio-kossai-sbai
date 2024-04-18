@@ -33,6 +33,9 @@ const portfolio = [
                 tech: "Flask"
             },
             {
+                tech: "HTMX"
+            },
+            {
                 tech: "Python"
             },
             {
