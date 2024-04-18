@@ -61,6 +61,7 @@ export const TECH_STACK = [
     'Langchain',
     'AWS',
     'React Native',
+    'GraphQL'
 ];
 
 export const CONTACTS = {

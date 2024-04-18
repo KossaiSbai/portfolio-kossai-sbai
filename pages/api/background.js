@@ -36,7 +36,7 @@ const background = [
                     "Developed an LLM app to facilitate question answering over company data, reducing information retrieval time by 7 hours per employee per month.\n" +
                     "Currently leading, in collaboration with the Head of Product, the unification of multiple products into a single platform to optimize user experience.\n" +
                     "Actively involved in the ongoing initiative to integrate AI and ML technologies for enhancing customer experience and automating back/middle office processes.\n" +
-                    "Technical Proficiency: Kotlin, React, Node.js, Python, TypeScript, Elasticsearch.",
+                    "Technical Proficiency: Kotlin, React, Node.js, Python, TypeScript, AWS Bedrock, Flask, HTMX, SQL.",
                 year: '10/2022 - Present',
                 location: 'London, United Kingdom'
             },
@@ -48,7 +48,7 @@ const background = [
                 desc: "Led and implemented high-impact promotional campaigns that generated over £1M in cash and 10M subscriptions while optimizing customer experience.\n" +
                     "Designed and maintained all logged-out landing pages, attracting an average of 35k organic traffic on weekdays.\n" +
                     "Led an initiative to implement a new business model aimed at increasing subscriptions and consequently annual recurring revenue through credit card trials.\n" +
-                    "Technical Proficiency: Node.js, React, Redux, JavaScript, Elasticsearch, Python.",
+                    "Technical Proficiency: Ruby On Rails, React, NextJs, GraphQL, Vue.js, TypeScript, Node.js, Python.",
                 year: '09/2021 - 09/2022',
                 location: 'London, United Kingdom'
             },
@@ -60,7 +60,7 @@ const background = [
                 desc: "Led and implemented high-impact promotional campaigns that generated over £1M in cash and 10M subscriptions while optimizing customer experience.\n" +
                     "Designed and maintained all logged-out landing pages, attracting an average of 35k organic traffic on weekdays.\n" +
                     "Led an initiative to implement a new business model aimed at increasing subscriptions and consequently annual recurring revenue through credit card trials.\n" +
-                    "Technical Proficiency: Node.js, React, Redux, JavaScript, Elasticsearch, Python.",
+                    "Technical Proficiency: Kotlin, Corda",
                 year: '06/2020 - 09/2020',
                 location: 'London, United Kingdom'
             },
@@ -74,7 +74,7 @@ const background = [
                     "Was in charge of the mobile app part of the product.\n" +
                     "Received press and TV coverage for our product: BBC South Today, NS Packaging, Daily Echo, BusinessGreen.\n" +
                     "Obtained the award for the best technical project among 12 intern teams across Europe.\n" +
-                    "Technical Proficiency: Python, React, Node.js, TensorFlow, OpenCV, Elasticsearch.",
+                    "Technical Proficiency: Flutter, Python, HTML, CSS, Javascript, Bootstrap, Node.js, SQL",
                 year: '07/2019 - 09/2019',
                 location: 'Hursley, United Kingdom'
             },
