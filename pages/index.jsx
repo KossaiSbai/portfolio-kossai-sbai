@@ -1,11 +1,15 @@
-import Footer from '../components/Footer';
-import Banner from '../components/HomeComponents/Banner';
-const home = () => {
-    return (
-        <div className="Home-Page -z-10">
-            <Banner />
-        </div>
-    )
+import { useEffect } from 'react';
+import { useRouter } from 'next/router';
+
+const Home = () => {
+    const router = useRouter();
+
+    useEffect(() => {
+        router.push("/portfolio");
+    }, [router]);
+
+    // You can return null or some loading UI
+    return null; // or return <div>Loading...</div>
 }
 
-export default home
+export default Home;
