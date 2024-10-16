@@ -1,5 +1,28 @@
 const portfolio = [
     {
+        projectName: "Shelfpik",
+        url: "https://shelfpik.vercel.app/",
+        image: "projects/Shelfpik.png",
+        projectDetail: "A single source of truth on your competitors that you control. 100% of your competitor market.",
+        technologiesUsed: [
+            {
+                tech: "SvelteKit"
+            },
+            {
+                tech: "Shadcdn Svelte"
+            },
+            {
+                tech: "Django"
+            },
+            {
+                tech: "PostgresSQL"
+            },
+            {
+                tech: "Redis"
+            },
+        ]
+    },
+    {
         projectName: "Torstone",
         url: "https://youtu.be/u4Kw_cBS614",
         image: "projects/torstone.png",

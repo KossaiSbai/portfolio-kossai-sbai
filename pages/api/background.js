@@ -6,10 +6,10 @@ const background = [
                 title: 'Imperial College London',
                 degree: 'MSci, Advanced Computing',
                 detail: "Masters Degree in Advanced Computing from Imperial College London.\n" +
-                "Modules: Machine Learning, Reinforcement Learning, Distributed Algorithms, NLP, Deep Learning.\n" +
-                "Worked with Elliptic to analyse Ethereum transactions wor my dissertation, uncovering patterns that helped prevent around 37 billion in potential fraud in 2021.\n" +
-                "Second class with 73.78% overall.\n" +
-                "Programming languages/Frameworks taught/used: Elixir, Javascript, Python, Pytorch, Numpy, Scikit-learn",
+                    "Modules: Machine Learning, Reinforcement Learning, Distributed Algorithms, NLP, Deep Learning.\n" +
+                    "Worked with Elliptic to analyse Ethereum transactions wor my dissertation, uncovering patterns that helped prevent around 37 billion in potential fraud in 2021.\n" +
+                    "Second class with 73.78% overall.\n" +
+                    "Programming languages/Frameworks taught/used: Elixir, Javascript, Python, Pytorch, Numpy, Scikit-learn",
                 year: '2020-2021'
             },
             {
@@ -17,7 +17,7 @@ const background = [
                 title: 'Kings College London',
                 degree: 'BSc, Computer Science',
                 detail: "Bachelor's Degree in Computer Science from Kings College London\n" +
-                "First class honours with 80+ overall",
+                    "First class honours with 80+ overall",
                 year: '2017-2020'
             },
         ]
@@ -26,18 +26,28 @@ const background = [
         expCards: [
             {
                 id: 1,
+                title: 'Bridge Social Care',
+                role: 'AI engineer',
+                url: '',
+                desc: "Developing and rolling out a Minimum Viable Product (MVP) that provides objective information for referral decisions with minimal document review, incorporating AI to assess clinical admissibility and capacity-dependent criteria.\n" +
+                    "Technical Proficiency: Vue, .NET, SQL, Azure, Langfuse",
+                year: '07/2024 - Present',
+                location: 'London, United Kingdom'
+            },
+            {
+                id: 1,
                 title: 'Torstone Technology',
                 role: 'Full Stack Engineer',
                 url: '',
                 desc: "Led maintenance and improvement of the Torstone Risk application, a risk analytics automation and regulatory compliance product.\n" +
-                "Divided time to market of new features by 2.\n" +
-                        "Developed tests to formally validate our financial risk models, contributing to a £5M deal closure.\n" +
+                    "Divided time to market of new features by 2.\n" +
+                    "Developed tests to formally validate our financial risk models, contributing to a £5M deal closure.\n" +
                     "Oversaw the onboarding process for one of our main customers.\n" +
                     "Developed an LLM app to facilitate question answering over company data, reducing information retrieval time by 7 hours per employee per month.\n" +
                     "Currently leading, in collaboration with the Head of Product, the unification of multiple products into a single platform to optimize user experience.\n" +
                     "Actively involved in the ongoing initiative to integrate AI and ML technologies for enhancing customer experience and automating back/middle office processes.\n" +
                     "Technical Proficiency: Kotlin, React, Node.js, Python, TypeScript, AWS Bedrock, Flask, HTMX, SQL.",
-                year: '10/2022 - Present',
+                year: '10/2022 - 06/2024',
                 location: 'London, United Kingdom'
             },
             {
